@@ -1,0 +1,2309 @@
+--------------- 25-03-2021, 12:46:00 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 19612
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F9EDD08B75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 25-03-2021, 13:17:53 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4592
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FBF79D2B75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 26-03-2021, 13:10:59 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3755
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F54D32AA75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 29-03-2021, 13:58:04 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2401
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FBD1965875F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-04-2021, 12:54:14 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 20825
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FA4A946475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 08-06-2021, 16:27:07 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2742
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F3CF719375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-06-2021, 19:45:08 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 11229
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FFA00BB975--------------- 15-06-2021, 19:45:08 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2624
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6543D7C75FF in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 21196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, col96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, coluumn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-06-2021, 20:00:34 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2637
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FB87CFD875F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-06-2021, 11:40:17 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2723
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007EFBFF00E75F--------------- 16-06-2021, 11:40:17 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2691
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FDFD532E75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 21 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, colu96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+--------------- 16-06-2021, 14:03:59 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2662
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F13946F775F--------------- 16-06-2021, 14:03:59 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2632
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F3FA696675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 21 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, colu96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-06-2021, 15:39:26 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2695
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F2CAAA8075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-06-2021, 15:48:47 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2662
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FE8687E375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-06-2021, 16:30:05 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2573
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF21C11075F--------------- 16-06-2021, 16:30:05 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2609
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F428B3FC75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 21 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, colu96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 18-06-2021, 17:25:38 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2578
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD99CD1D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 28-06-2021, 21:58:38 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2675
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F833258775F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-07-2021, 19:26:56 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2749
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FC798BCD75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-07-2021, 20:30:51 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2695
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FA19380975F--------------- 09-07-2021, 20:30:51 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2678
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F561FDF775F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 21 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, colu96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-08-2021, 14:33:00 ---------------
+| DC v0.9.10 beta Rev. 9640 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2590
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F808EA2475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BA696 line 1615, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004DB561 line 2203, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004AF3DC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AF65D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000438E9F in /usr/lib/doublecmd/doublecmd
+  $0000000000646E4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004ACED2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006E9CB6 line 5716, column 7 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006E4579 line 2868, column 3 of qt5/qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004EB2FF line 6312, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-08-2021, 18:32:22 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 19523
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F452561375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-08-2021, 18:43:08 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2733
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FE220DC175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 20-08-2021, 18:45:21 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2639
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F061AA1D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-08-2021, 11:00:23 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2839
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F9B292D975F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 28-08-2021, 13:21:37 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3433
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FDBD7B6975F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-09-2021, 18:33:52 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2799
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F486121D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 08-09-2021, 14:47:39 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2911
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F1D98F4475F--------------- 08-09-2021, 14:47:39 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 12137
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FB7B198475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 21196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, col96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, coluumn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+00000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-09-2021, 13:53:36 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2456
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F8D5BA3975F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-09-2021, 16:41:56 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2532
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F5CAE84C75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 13-09-2021, 22:13:36 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2595
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F730868D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 30-09-2021, 16:11:10 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3278
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FA77E71175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-10-2021, 12:51:59 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 16070
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F1AC8A6C75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-10-2021, 13:29:07 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2929
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F414C39275F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-10-2021, 13:34:53 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2679
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F5BC84D975F--------------- 06-10-2021, 13:34:53 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2689
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F2046BC575F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 21 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, colu96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+00000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-10-2021, 15:36:05 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 13431
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00000000004B2B7D line 2178, column 8 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000AC519C line 181, column 3 of foptions.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006C5D2A line 55, column 3 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006C6573 line 169, column 3 of include/buttons.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006FB546 line 67, column 3 of include/bitbtn.inc in /usr/lib/doublecmd/doublecmd
+  $00000000006C5C16 line 21, column 5 of include/buttoncontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007157C9 line 6089, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007FF55D005525 in /usr/lib/x86_64-linux-gnu/libQt5Core.so.5
+  $00007FF55E3D5B12 in /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5
+
+--------------- 02-11-2021, 20:51:00 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 23112
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F046880475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 04-11-2021, 18:54:44 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 14006
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F18B358075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 17-11-2021, 13:54:00 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 6369
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F614EC2075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 17-11-2021, 17:53:22 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2872
+Unhandled exception: EInvalidQuoting: Ungültige Anführungszeichen
+  Stack trace:
+  $000000000087F8B2 line 744, column 16 of udcutils.pas in /usr/lib/doublecmd/doublecmd
+  $000000000087FB3B line 780, column 3 of udcutils.pas in /usr/lib/doublecmd/doublecmd
+  $00000000006BB9F2 line 534, column 26 of include/customcombobox.inc in /usr/lib/doublecmd/doublecmd
+  $00000000009ACA40 line 87, column 24 of kascombobox.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000676D6F line 5684, column 14 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000677076 line 5815, column 7 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000067A316 line 7204, column 38 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070FA87 line 3381, column 9 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070E58C line 2629, column 25 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000072288A line 11691, column 21 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00007FD699DFA58C in /usr/lib/x86_64-linux-gnu/libQt5Core.so.5
+
+--------------- 07-12-2021, 13:49:20 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2875
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F2F0989575F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-12-2021, 17:19:09 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2642
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F0C98C0975F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-12-2021, 18:41:46 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 21763
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F0C70E0475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-01-2022, 18:03:20 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 5242
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F5E45CC675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 07-01-2022, 15:16:50 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2759
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6F8E14375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 10-01-2022, 12:13:42 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 17854
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F96F1A9C75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 24-01-2022, 14:24:28 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 27999
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FECADB5775F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 26-01-2022, 12:14:11 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2660
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F9E084DC75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 01-02-2022, 12:22:06 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 20712
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FBC6AE8375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 08-02-2022, 11:11:17 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2748
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FB8682F675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-02-2022, 14:04:45 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2727
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FDB3257C75F--------------- 15-02-2022, 14:04:45 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 23182
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F330118375 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 21F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, col96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, coluumn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+00000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-02-2022, 18:00:40 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2820
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F0AAB43D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-02-2022, 14:11:14 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 20808
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F8AFD2C475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 25-02-2022, 17:57:13 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 7320
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6FDDC5A75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 01-03-2022, 11:49:11 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2887
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F668381C75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 06-04-2022, 11:28:34 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 14527
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FE58D96675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 08-04-2022, 14:33:41 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2834
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F975E3EA75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 12-04-2022, 19:39:33 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3868
+Unhandled exception: EDOMNotFound: EDOMNotFound in Element.RemoveAttributeNode
+  Stack trace:
+  $00000000007C6863 line 3365, column 11 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C52E9 line 3018, column 5 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004390C0 in /usr/lib/doublecmd/doublecmd
+  $00000000004390C0 in /usr/lib/doublecmd/doublecmd
+  $00000000009AB941 line 887, column 3 of kastoolbar.pas in /usr/lib/doublecmd/doublecmd
+  $000000000046ED3D in /usr/lib/doublecmd/doublecmd
+  $000000000068B9E1 line 5128, column 3 of include/control.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000679036 line 6644, column 3 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $000000000068E441 line 40, column 3 of include/customcontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AB9E1 line 316, column 3 of include/scrollingwincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004AD371 line 212, column 5 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004390C0 in /usr/lib/doublecmd/doublecmd
+  $00000000004A8796 line 1934, column 3 of forms.pp in /usr/lib/doublecmd/doublecmd
+
+--------------- 12-04-2022, 19:39:33 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3868
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000000060 in 
+  $00000000004390C0 in /usr/lib/doublecmd/doublecmd
+  $00000000007C1480 line 1842, column 5 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C0CF5 line 1648, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C5624 line 3071, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C1480 line 1842, column 5 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C0CF5 line 1648, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C5624 line 3071, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C1480 line 1842, column 5 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C0CF5 line 1648, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C5624 line 3071, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C1480 line 1842, column 5 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C0CF5 line 1648, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C5624 line 3071, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C1480 line 1842, column 5 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C0CF5 line 1648, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007C5624 line 3071, column 3 of laz2_dom.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 12-04-2022, 19:39:34 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-
+|  | PID 3868
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000000000000 in 
+  $0000000000566147 in doublecmd
+  $00000000006834B8 in doublecmd
+  $000000000068BA67 in doublecmd
+  $00000000004AD1E9 in doublecmd
+  $00000000004AD28E in doublecmd
+  $000000000046ED3D in doublecmd
+  $00000000004390C0 in doublecmd
+  $000000000045349A in doublecmd
+  $00000000004390C0 in doublecmd
+  $00000000007C1480 in doublecmd
+  $00000000007C0CF5 in doublecmd
+  $00000000007C5624 in doublecmd
+  $00000000007C1480 in doublecmd
+  $00000000007C0CF5 in doublecmd
+  $00000000007C5624 in doublecmd
+  $00000000007C1480 in doublecmd
+
+--------------- 18-05-2022, 14:47:56 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 5574
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F4AC6FB475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-05-2022, 15:17:52 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3606
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F19B09E975F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 20-05-2022, 13:35:17 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3604
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F07155A575F--------------- 20-05-2022, 13:35:17 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3617
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF33948275F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 21 in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, colu96, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0mn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+00000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 20-05-2022, 17:06:20 ---------------
+| DC v1.0.0 alpha Rev. 9855 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 10613
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F285A09A75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDED6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E1201 line 2326, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2C1C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E9D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004395EF in /usr/lib/doublecmd/doublecmd
+  $000000000067640D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0712 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071483B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $000000000070EEB9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F211F line 6705, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-05-2022, 13:51:37 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3603
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F0C0488575--------------- 23-05-2022, 13:51:37 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3519
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F7EAC90475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-05-2022, 14:03:40 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2974
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F2A1815F75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-05-2022, 14:04:55 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 16954
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F5301F6175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 30-05-2022, 20:12:05 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4582
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F94FC39675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 01-06-2022, 14:21:01 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 2252
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F8A6B287FD0 in /lib/x86_64-linux-gnu/libpthread.so.0
+  $000000000046AE5E in /usr/lib/doublecmd/doublecmd
+  $0000000000553A98 line 743, column 5 of lazlogger.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000504542 line 86, column 5 of udebug.pas in /usr/lib/doublecmd/doublecmd
+  $00000000005048C4 line 116, column 3 of udebug.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A644A9 line 1104, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000A6448F line 1102, column 22 of filesources/filesystem/ufilesystemutil.pas in /usr/lib/doublecmd/doublecmd
+
+
+--------------- 03-06-2022, 15:24:24 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3753
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F041188B75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 03-06-2022, 15:56:23 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3870
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FA26C5DC75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 03-06-2022, 16:52:25 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 13741
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F177A0FA75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 21-06-2022, 21:22:52 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 27795
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD0FC96175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 21-06-2022, 21:29:47 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3776
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F93F5C9775F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-06-2022, 13:31:18 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4328
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F3530AF175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-06-2022, 14:42:44 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4207
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6756BBA75--------------- 23-06-2022, 14:42:44 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4198
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F1C2A60475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2352, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+00000000007119D9 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6882, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-06-2022, 15:29:05 ---------------
+| DC v1.1.0 alpha Rev. 10140 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4244
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6342AF175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BDE66 line 1533, column 6 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E18D1 line 2136, column 10 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B2BAC line 2082, column 33 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B2E2D line 2126, column 37 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043956F in /usr/lib/doublecmd/doublecmd
+  $00000000005BAEED line 5088, column 1 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B06A2 line 1247, column 25 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000071735B line 5205, column 1 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000007119D9 line 2542, column 88 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F304F line 6745, column 10 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-06-2022, 15:45:33 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4044
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD01076A75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-06-2022, 17:45:42 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 27134
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F5D93CDA75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 24-06-2022, 13:47:42 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 19531
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F948204E75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 24-06-2022, 14:02:29 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4330
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF0DEDA075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 24-06-2022, 16:14:34 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4252
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD915A4D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 24-06-2022, 18:16:27 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4188
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FBA00C3375--------------- 24-06-2022, 18:16:27 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4195
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FBF0BE3475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 24-06-2022, 18:53:10 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4203
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD26A7E575--------------- 24-06-2022, 18:53:10 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4268
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FCE75D3875--------------- 24-06-2022, 18:53:10 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4211
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FC4A7BCC75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 27-06-2022, 09:44:08 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4200
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F1C6069475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 28-06-2022, 17:44:14 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4273
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F723603075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 30-06-2022, 17:36:18 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4013
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F59B4A2975F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 08-07-2022, 18:54:54 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 11455
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F01EA77775F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-07-2022, 16:34:22 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4315
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF9FAFA775--------------- 09-07-2022, 16:34:22 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4352
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FDE7EC5375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 12-07-2022, 13:05:23 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4543
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6A7EF3175--------------- 12-07-2022, 13:05:23 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4505
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF584A3B75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, col196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 27-07-2022, 12:31:09 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4716
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FB87874475F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 29-07-2022, 18:25:51 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4416
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F15AB52275F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-08-2022, 18:52:42 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4434
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F9CBAD4F75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 12-08-2022, 10:41:55 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 9611
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007EFE9930A75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 30-08-2022, 19:38:44 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4298
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F0804A7075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 31-08-2022, 17:34:17 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 1796
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FA72115075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 31-08-2022, 17:54:58 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4516
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FECD9E0375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 01-09-2022, 20:14:29 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4577
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F763DB6575F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 02-09-2022, 20:20:33 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 15800
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FC01620A75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-09-2022, 18:25:25 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4551
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F078299B75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 16-09-2022, 19:34:06 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 18467
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD85738075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 22-09-2022, 17:08:10 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 32544
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F88BF1C675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 23-09-2022, 19:24:26 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4450
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FF711CD375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 28-09-2022, 20:02:59 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 17569
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FBCF7AFB75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 29-09-2022, 11:42:27 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4060
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FD7EE7B175F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 29-09-2022, 16:50:36 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4268
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FDC1052575F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 29-09-2022, 16:50:37 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4268
+Unhandled exception: EIPCError: Failed to remove named pipe: /run/user/1000/doublecmd.pipe
+  Stack trace:
+  $0000000000C1CF3D in /usr/lib/doublecmd/doublecmd
+  $0000000000C1CBD0 in /usr/lib/doublecmd/doublecmd
+
+--------------- 30-09-2022, 20:35:07 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4216
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F093011675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 14-10-2022, 20:15:49 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 15107
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FCA51D9375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 15-10-2022, 19:53:17 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4290
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F770155D75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 18-10-2022, 21:51:27 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4373
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F04CF0B8AA9 in /usr/lib/x86_64-linux-gnu/libQt5XcbQpa.so.5
+
+--------------- 19-10-2022, 18:00:44 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4473
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FE55A0CE75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 21-10-2022, 23:00:59 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4853
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F19D23B075F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 22-10-2022, 17:27:53 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4584
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F8CB483875F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 28-10-2022, 16:03:40 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4334
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F985493375F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 04-11-2022, 19:31:44 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4324
+Unhandled exception: EFileNotFound: Datei »« nicht gefunden.
+  Stack trace:
+  $00000000008990F6 line 399, column 6 of filesources/filesystem/ufilesystemfilesource.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 05-11-2022, 18:39:23 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 11677
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F6FAF13675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 09-11-2022, 18:34:56 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4295
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FAAF97CB75F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 11-11-2022, 20:20:07 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3941
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F3934F1275F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 17-11-2022, 18:25:40 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4611
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FAADBFC275F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 18-11-2022, 18:48:12 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4170
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F9E3208675F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 19-11-2022, 19:26:37 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 3936
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F52052A575F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+--------------- 25-11-2022, 20:26:17 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 4248
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007FA8D9FCF75--------------- 25-11-2022, 20:26:17 ---------------
+| DC v1.1.0 alpha Rev. 10267 -- x86_64-Linux-qt5
+| Linux Mint 19.3 Tricia -- Qt 5.9.5, libQt5Pas 5.6.1 | PID 29114
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $00007F1B305B97F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 25F in /usr/lib/x86_64-linux-gnu/libQt5Pas.so.1
+  $00000000004BE3C6 line 1613, column 3 of include/application.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004E2371 line 2361, column 3 of fmain.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004B310C line 196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, col2196, column 7 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B338D line 2276, column 3 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $000000000043958F in /usr/lib/doublecmd/doublecmd
+  $00000000005BBB4D line 5411, column 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  umn 28 of include/wincontrol.inc in /usr/lib/doublecmd/doublecmd
+  $00000000004B0C02 line 1477, column 31 of include/customform.inc in /usr/lib/doublecmd/doublecmd
+  $0000000000717FBB line 5716, column 7 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $$0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+
+0000000000712639 line 2868, column 3 of qtwidgets.pas in /usr/lib/doublecmd/doublecmd
+  $00000000004F3B0F line 6901, column 19 of fmain.pas in /usr/lib/doublecmd/doublecmd
+

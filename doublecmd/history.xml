@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>/home/apankoke/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/Cmpn-Linux/fw-xlnx/Resources/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/Cmpn-Linux/fw-xlnx/</Item>
+      <Item>/home/apankoke/Downloads/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/Cmpn-Linux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
+      <Item>/media/apankoke/</Item>
+      <Item>/media/apankoke/rootfs/</Item>
+      <Item>/media/apankoke/boot/</Item>
+      <Item>/srv/tftp/nfsroot/home/root/update-clwave/</Item>
+      <Item>/srv/tftp/nfsroot/home/root/</Item>
+      <Item>/srv/tftp/nfsroot/home/</Item>
+      <Item>/srv/tftp/nfsroot/</Item>
+      <Item>/home/apankoke/update-clwave/</Item>
+      <Item>/home/apankoke/logos/</Item>
+      <Item>/home/apankoke/logos/comprion/</Item>
+      <Item>/home/apankoke/logos/comprion/Tested Trusted/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/QLinuxUtils/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
+      <Item>/home/apankoke/projects/xilinx/</Item>
+      <Item>/home/apankoke/logos/comprion/Tested Trusted/Pixel/</Item>
+      <Item>/home/apankoke/logos/comprion/COMPRION + Claim/</Item>
+      <Item>/home/apankoke/logos/comprion/COMPRION + Claim/Pixel/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/SD-Boot-CLWave-ho-nfs-distroboot/BOOT/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/SD-Boot-CLWave-ho-nfs-distroboot/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/SD-Boot-CLWave-ho-nfs-distroboot/ROOTFS/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/SD-Boot-CLWave-ho-nfs/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/SD-Boot-CLWave-ho-nfs/BOOT/</Item>
+      <Item>/mnt/backup-internal/backup-manual/SD Cards/SD-Boot-CLWave-ho-nfs/ROOTFS/</Item>
+      <Item>/mnt/backup-internal/backup-manual/</Item>
+      <Item>/srv/tftp/</Item>
+      <Item>/srv/</Item>
+      <Item>/</Item>
+      <Item>/home/</Item>
+      <Item>/home/apankoke/projects/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/u-boot-configs/</Item>
+      <Item>/media/apankoke/Linux-Main/</Item>
+      <Item>/mnt/backup-internal/</Item>
+      <Item>/mnt/backup-internal/SD-card/</Item>
+      <Item>/mnt/backup-internal/backup-manual/Linux-Main-sda1/</Item>
+      <Item>/media/apankoke/Linux-Main/linux/</Item>
+      <Item>/mnt/backup-internal/backup-manual/Linux-Main-sda1/linux/</Item>
+      <Item>/media/apankoke/Linux_Second/</Item>
+      <Item>/media/apankoke/Linux_Second/linux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/images/linux/</Item>
+    </Navigation>
+    <CommandLine>
+      <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/images/linux/</Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveComplete/Linux/xlnx/images/linux/</Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveComplete/Linux/xlnx/images/linux//linux</Item>
+      <Item>cd /mnt/projects_ssd/projects/CLWave-initial/CLWaveLinux/CLWaveLinux/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999</Item>
+      <Item>cd /build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999/</Item>
+      <Item>cd /mnt/projects_ssd/projects/CLWave-initial/CLWaveLinux/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999$ </Item>
+      <Item>/mnt/projects_ssd/projects/CLWave-initial/CLWaveLinux/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999$ </Item>
+      <Item>cd $(dirname $(readlink -f .config.new))</Item>
+      <Item>cd /mnt/project_zwo/2020.2/sdk/sysroots/aarch64-xilinx-linux/lib</Item>
+      <Item>cd /mnt/projects_ssd/projects/ZCU102/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999//</Item>
+      <Item>cd build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999//.config</Item>
+      <Item>cd mnt/projects_ssd/projects/ZCU102/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999</Item>
+      <Item>cd mnt/projects_ssd/projects/ZCU102/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999//.config</Item>
+      <Item>cd /mnt/project_zwo/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999//.config</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/lwip-test/src</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/rpmsg-ethernet_bsp/psu_cortexr5_0/libsrc</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/temp/log.do_compile</Item>
+      <Item>cd mtp://[usb:001,021]/Interner gemeinsamer Speicher/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Images</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/echotest/src/lscript.ld</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/echotest_bsp/psu_cortexr5_0/include/openamp</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/echotest/Debug</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/echotest/src</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot-fw-utils/1_2019.07-r0/temp/log.do_compile</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot/1_2019.07-r0/git O=/mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot/1_2019.07-r0/</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot/1_2019.07-r0/git O=/mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot/1_2019.07-r0/build oldconfig</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-bsp/u-boot/u-boot-xlnx-dev.bb</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/recipes-bsp/u-boot/libubootenv_0.3.1.bb</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2021.1/xilinx-zcu102-2021.1/build/tmp/work/zcu102-xilinx-linux/device-tree/xilinx-v2021.1+gitAUTOINC+252758eb1f-r0/system-user.dtsi</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2021.1/xilinx-zcu102-2021.1/build/tmp/work/zcu102-xilinx-linux/device-tree/xilinx-v2021.1+gitAUTOINC+252758eb1f-r0/</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2021.1/xilinx-zcu102-2021.1/build/tmp/work/zcu102-xilinx-linux/device-tree/xilinx-v2021.1+gitAUTOINC+252758eb1f-r0/system-user.dtsi</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/workspace/sources/u-boot-xlnx/Makefile</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot-xlnx/v2020.01-xilinx-v2020.2+git999-r0/temp/log.do_compile</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/u-boot-xlnx/v2020.01-xilinx-v2020.2+git999-r0/u-boot-xlnx-v2020.01-xilinx-v2020.2+git999</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/sysroots-components/zynqmp_generic/u-boot-xlnx/boot/</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/temp/</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/linux-xlnxcd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/temp/</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/linux-xlnx</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/temp/run.do_compile.6106</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/linux-xlnx_2020.2.bb:do_compile)</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/temp/log.do_compile.3647</Item>
+      <Item>cd /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/linux-xlnx-5.4+git999/</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/linux-xlnx_2020.2.bb</Item>
+      <Item>gnome-terminal</Item>
+      <Item>cmd</Item>
+      <Item>cd /mnt/projects_ssd/projects/stm32mp/workspace/STM32MP15-Ecosystem-v3.0.0/Developer-Package/STM32Cube_FW_MP1_V1.4.0/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_virtio.c</Item>
+      <Item>cd /mnt/projects_ssd/projects/stm32mp/workspace/STM32MP15-Ecosystem-v3.0.0/Developer-Package/STM32Cube_FW_MP1_V1.4.0/Projects/STM32MP157C-DK2/Applications/OpenAMP/OpenAMP_TTY_echo/Src/main.c</Item>
+      <Item>cd /home/apankoke/Eclipse/neon</Item>
+      <Item>cd /home/apankoke/eclipse/embedcpp-2021-12/eclipse</Item>
+      <Item>cd  /mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/helloworlddriver/1.0-r0/temp/log.do_compile.13585
+</Item>
+    </CommandLine>
+    <FileMask>
+      <Item>*</Item>
+      <Item>fw_printenv</Item>
+      <Item>fw_env.config</Item>
+      <Item>printenv</Item>
+      <Item>u-boot-fw-utils</Item>
+      <Item>boot.cmd.default</Item>
+      <Item>platform-auto.h</Item>
+      <Item>mkenvimage</Item>
+      <Item>*.c</Item>
+      <Item>newdatabase.key</Item>
+      <Item>newdatabase</Item>
+      <Item>system-conf.dtsi</Item>
+      <Item>.config</Item>
+      <Item>*.sh</Item>
+      <Item>boot.bif</Item>
+      <Item>openamp.dt*</Item>
+      <Item>openamp.dtsi</Item>
+      <Item>openamp</Item>
+      <Item>porcupine</Item>
+      <Item>*.tcl</Item>
+      <Item>*.dtsi</Item>
+      <Item>*.hdf</Item>
+      <Item>libc.so</Item>
+      <Item>ld-linux-aarch64.so.1</Item>
+      <Item>*.ld</Item>
+      <Item>libc.so.6</Item>
+      <Item>.so.6</Item>
+      <Item>libc_nonshared</Item>
+      <Item>libQLinuxUtils</Item>
+      <Item>sdk.sh</Item>
+      <Item>sdk.h</Item>
+      <Item>buildscripts</Item>
+      <Item>_old</Item>
+      <Item>libmetal</Item>
+      <Item>progit.pdf</Item>
+      <Item>libqt5core5a</Item>
+      <Item>moc_mainwindow.cpp</Item>
+      <Item>Test_openAMP_matrix.elf</Item>
+      <Item>aarch64-xilinx-linux-g++</Item>
+      <Item>rpmsg-tty</Item>
+      <Item>netextender</Item>
+      <Item>ethernet.c</Item>
+      <Item>netif</Item>
+      <Item>*.c;*.h;*.cpp</Item>
+      <Item>lwip</Item>
+      <Item>lwip.mk</Item>
+      <Item>image_echo</Item>
+      <Item>u-boot-default-env</Item>
+      <Item>bblayers</Item>
+      <Item>fw_env</Item>
+    </FileMask>
+    <VolumeSize/>
+    <CreateDirectories>
+      <Item Tag="0">update-clwave</Item>
+      <Item Tag="0">comprion</Item>
+      <Item Tag="0">logos</Item>
+      <Item Tag="0">Linux-Main-sda1</Item>
+      <Item Tag="0">SD-Boot-CLWave-ho-nfs</Item>
+      <Item Tag="0">SD-Motorola-Z2Play</Item>
+      <Item Tag="0">Sd-Boot-SD-Rootfs</Item>
+      <Item Tag="0">SD Cards</Item>
+      <Item Tag="0">ssh</Item>
+      <Item Tag="0">backup-hassio-sd</Item>
+      <Item Tag="0">SD-Boot-2021.1-u-BOOT-QSPI</Item>
+      <Item Tag="0">backup-TFTPBoot-SD-Card-2022-11</Item>
+      <Item Tag="0">rootfs</Item>
+      <Item Tag="0">SD-Boot-CLWave-2021.2-Neu</Item>
+      <Item Tag="0">SD-Boot-CLWave-Backup</Item>
+      <Item Tag="0">SD-Boot-ZCU102-Backup</Item>
+      <Item Tag="0">linux-backup-boot-ssd-ZCU102</Item>
+      <Item Tag="0">testoperator</Item>
+      <Item Tag="0">petalinux</Item>
+      <Item Tag="0">Linux/xlnx</Item>
+    </CreateDirectories>
+    <SearchText>
+      <Item Tag="0">vendor</Item>
+      <Item Tag="0">bootargs</Item>
+      <Item Tag="0">multi</Item>
+      <Item Tag="0">mmcblk0</Item>
+      <Item Tag="0">CONFIG_</Item>
+      <Item Tag="0">g_ether</Item>
+      <Item Tag="0">multiboot</Item>
+      <Item Tag="0">env_get_location</Item>
+      <Item Tag="0">CONFIG_ENV_IS_IN_FAT</Item>
+      <Item Tag="0">#define DEVICE1_NAME</Item>
+      <Item Tag="0">fw_printenv</Item>
+      <Item Tag="0">u-boot-fw-utils</Item>
+      <Item Tag="0">boot.cmd.default</Item>
+      <Item Tag="0">boot.scr</Item>
+      <Item Tag="0">sataboot</Item>
+      <Item Tag="0">import</Item>
+      <Item Tag="0">board</Item>
+      <Item Tag="0">matchbox</Item>
+      <Item Tag="0">zynqmp_dpsub</Item>
+      <Item Tag="0">rpmsg</Item>
+      <Item Tag="0">devilspi2</Item>
+      <Item Tag="0">dtb</Item>
+      <Item Tag="0">ext_sourc</Item>
+      <Item Tag="0">gem3</Item>
+      <Item Tag="0">GNU ld script</Item>
+      <Item Tag="0">MARKER</Item>
+      <Item Tag="0">post-relocate-setup.sh</Item>
+      <Item Tag="0">post-relocate-setup.sh: Failed to source</Item>
+      <Item Tag="0">libr</Item>
+      <Item Tag="0">LD_</Item>
+      <Item Tag="0">postbuild.sh</Item>
+      <Item Tag="0">max6650</Item>
+      <Item Tag="0">.74</Item>
+      <Item Tag="0">qt</Item>
+      <Item Tag="0">queryResources</Item>
+      <Item Tag="0">deviceName()</Item>
+      <Item Tag="0">ipaddr</Item>
+      <Item Tag="0">vring_map_one_sg</Item>
+      <Item Tag="0">-lopenamp</Item>
+      <Item Tag="0">-lmetal</Item>
+      <Item Tag="0">amd</Item>
+      <Item Tag="0">rpmsg_rtos_recv</Item>
+      <Item Tag="0">low_level_input</Item>
+      <Item Tag="0">xilinx</Item>
+      <Item Tag="0">netif_add</Item>
+      <Item Tag="0">rpmsgEthernet</Item>
+      <Item Tag="0">_input</Item>
+      <Item Tag="0">zynqmp_firmware</Item>
+      <Item Tag="0">rpu0vdev0buffer</Item>
+      <Item Tag="0">rproc_0_reserved</Item>
+    </SearchText>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <RenameNameMask/>
+    <RenameExtMask/>
+    <SearchDirectories>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/u-boot-configs/</Item>
+      <Item>/mnt/projects_ssd/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/project-spec/</Item>
+      <Item>/srv/tftp/nfsroot/</Item>
+      <Item>/home/apankoke/projects/u-boot-xlnx/</Item>
+      <Item>/home/apankoke/projects/u-boot-xlnx/tools/env/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/images/linux/rootfs/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/project-spec/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/Linux/xlnx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/sdk/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveComplete/</Item>
+      <Item>/home/apankoke/</Item>
+      <Item>/mnt/apankoke/ds/homes/apankoke/Drive/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveLinux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveLinux/build/tmp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveLinux/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/</Item>
+      <Item>/home/apankoke/projects</Item>
+      <Item>/home/apankoke/projects/xilinx/</Item>
+      <Item>/mnt/apankoke/ds/Musik/</Item>
+      <Item>/media/apankoke/SSD_External/Fiete-Musik/</Item>
+      <Item>/mnt/apankoke/apankoke-linux64-co-projects/projects/CLWave-Initial/</Item>
+      <Item>/home/apankoke/projects/CLWave-initial/Trenz-Board/StarterKit/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/plnx_workspace/device-tree/device-tree/</Item>
+      <Item>/mnt/projects_ssd/projects/xilinx/2020.2/sdk/sysroots/</Item>
+      <Item>/home/apankoke/projects/xilinx/2019.1/</Item>
+      <Item>/mnt/projects_ssd/projects/xilinx/2020.2/sdk/sysroots/aarch64-xilinx-linux/</Item>
+      <Item>/mnt/project_zwo/2020.2/sdk</Item>
+      <Item>/opt</Item>
+      <Item>/usr/lib/</Item>
+      <Item>/srv/tftp/nfsroot/usr/lib/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/sdk/</Item>
+      <Item>/home/apankoke/projects/ZCU102/Linux/xlnx/</Item>
+      <Item>/home/apankoke/projects/ZCU102/Firmware/fw-r5-TEC/</Item>
+      <Item>/home/apankoke/projects/ZCU102/Firmware/fw-r5-TEC/echotest/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/ext_sources/linux-xlnx/</Item>
+      <Item>/</Item>
+      <Item>/lib/</Item>
+      <Item>/home/apankoke/projects/CLWave/CLWave/Software/</Item>
+      <Item>/home/apankoke/projects/CLWave/CLWave/Software/CTSToolHMP4000/</Item>
+      <Item>/home/apankoke/projects/qt/</Item>
+      <Item>/srv/tftp/</Item>
+      <Item>/usr/bin/</Item>
+      <Item>/home/apankoke/projects/open-amp/TCP_IP/</Item>
+      <Item>/home/apankoke/xilinx/2019.1/Vivado/2019.1/data/embeddedsw/</Item>
+      <Item>/home/apankoke/xilinx/2019.1/</Item>
+      <Item>/home/apankoke/xilinx/2019.1/SDK/2019.1/lib/</Item>
+      <Item>/home/apankoke/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/FreeRTOS_bsp/psu_cortexa53_0/libsrc/lwip211_v1_0/src/</Item>
+      <Item>/home/apankoke/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/</Item>
+      <Item>/home/apankoke/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/</Item>
+    </SearchDirectories>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

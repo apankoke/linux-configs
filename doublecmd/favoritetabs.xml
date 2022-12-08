@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <FavoriteTabsList>
+    <FavoriteTabs UniqueID="{535C3ABF-90AE-403E-B16E-E60556EB37C1}" Name="NewPhotos" DestLeft="0" DestRight="1" ExistingKeep="5" SaveDirHistory="False"/>
+  </FavoriteTabsList>
+  <ActualTabs>
+    <GUID535C3ABF-90AE-403E-B16E-E60556EB37C1>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/apankoke/Downloads/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/apankoke/projects/xilinx/2019.1/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/apankoke/projects/xilinx/2019.1/</LockPath>
+          <Title>2019.1</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/apankoke/projects/xilinx/2019.1/xilinx-zcu102-2019.1/images/linux/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/home/apankoke/projects/xilinx/2019.1/xilinx-zcu102-2019.1/images/linux/</LockPath>
+          <Title>actual-linux-output</Title>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>1</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/home/apankoke/Downloads/DoubleCommander/doublecmd/plugins/wdx/audioinfo/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/srv/tftp/</LockPath>
+          <Title>tftp</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/mnt/apankoke/ds/photo/2036_incomming/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/mnt/apankoke/ds/photo/2036_incomming/</LockPath>
+          <Title>NewPhotos</Title>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>/mnt/apankoke/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+          <Options>2</Options>
+          <LockPath>/mnt/apankoke/</LockPath>
+          <Title>mnt</Title>
+        </Tab>
+      </Right>
+    </GUID535C3ABF-90AE-403E-B16E-E60556EB37C1>
+  </ActualTabs>
+</doublecmd>
