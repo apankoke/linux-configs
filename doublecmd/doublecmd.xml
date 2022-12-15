@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<doublecmd DCVersion="1.1.0 alpha" ConfigVersion="12">
+<doublecmd DCVersion="1.1.0 alpha" ConfigVersion="13">
   <Toolbars>
     <MainToolbar>
       <Row>
@@ -153,10 +153,10 @@
   </Toolbars>
   <MainWindow>
     <Position Save="True">
-      <Left>328</Left>
-      <Top>82</Top>
-      <Width>1565</Width>
-      <Height>881</Height>
+      <Left>1281</Left>
+      <Top>522</Top>
+      <Width>1680</Width>
+      <Height>984</Height>
       <PixelsPerInch>96</PixelsPerInch>
       <Maximized>False</Maximized>
       <Splitter>50</Splitter>
@@ -645,7 +645,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="">/home/apankoke/</Path>
                   <Path Filename="">/home/apankoke/projects/CLTOne/Head/CLTOneBF/</Path>
                   <Path Filename="">/home/apankoke/</Path>
                   <Path Filename="">/home/apankoke/projects/CLTOne/Head/CLTOneBF/</Path>
@@ -695,6 +694,7 @@
                   <Path Filename="">/home/apankoke/projects/CLTOne/Head/CLTOneBF/</Path>
                   <Path Filename="">/home/apankoke/projects/</Path>
                   <Path Filename="">/home/apankoke/projects/CLTOne/Head/CLTOneBF/</Path>
+                  <Path Filename="">/home/apankoke/projects/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -834,7 +834,7 @@
                   <Path Filename="backup">/home/apankoke/.PlayOnLinux/</Path>
                   <Path Filename="..">/home/apankoke/.PlayOnLinux/backup/</Path>
                   <Path Filename="backup">/home/apankoke/.PlayOnLinux/</Path>
-                  <Path Filename="PlayOnLinux's virtual drives">/home/apankoke/</Path>
+                  <Path Filename="PlayOnLinux&apos;s virtual drives">/home/apankoke/</Path>
                   <Path Filename="..">/home/apankoke/PlayOnLinux's virtual drives/</Path>
                   <Path Filename="echotest">/home/apankoke/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/</Path>
                   <Path Filename="Debug">/home/apankoke/projects/xilinx/2019.1/edt_zcu102/edt_zcu102.sdk/TEP.sdk/echotest/</Path>
@@ -1591,7 +1591,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
@@ -1641,6 +1640,7 @@
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
+                  <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -1810,7 +1810,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="sw_apps">/home/apankoke/Downloads/Trenz-Board/StarterKit/sw_lib/</Path>
                   <Path Filename="..">/home/apankoke/Downloads/Trenz-Board/StarterKit/sw_lib/sw_apps/</Path>
                   <Path Filename="CLWaveLinux">/home/apankoke/projects/CLWave-Initial/</Path>
                   <Path Filename="CLWaveLinux">/home/apankoke/projects/CLWave-Initial/CLWaveLinux/</Path>
@@ -1860,6 +1859,7 @@
                   <Path Filename="device-tree">/home/apankoke/projects/CLWave-Initial/CLWaveLinux/CLWaveLinux/components/plnx_workspace/device-tree/</Path>
                   <Path Filename="..">/home/apankoke/projects/CLWave-Initial/CLWaveLinux/CLWaveLinux/components/plnx_workspace/device-tree/device-tree/</Path>
                   <Path Filename="..">/home/apankoke/projects/CLWave-Initial/</Path>
+                  <Path Filename="">/home/apankoke/projects/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -2178,7 +2178,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
@@ -2228,6 +2227,7 @@
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
+                  <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -2397,7 +2397,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
@@ -2447,6 +2446,7 @@
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
+                  <Path Filename="">/mnt/apankoke/ds/homes/apankoke/Drive/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -2616,7 +2616,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
@@ -2666,6 +2665,7 @@
                   <Path Filename="">/mnt/apankoke/ds/</Path>
                   <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                   <Path Filename="">/mnt/apankoke/ds/</Path>
+                  <Path Filename="">/mnt/apankoke/ds/Musik/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -2832,7 +2832,6 @@
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="project_1">/home/apankoke/projects/CLWave-Initial/Vivado/</Path>
                   <Path Filename="Vivado">/home/apankoke/projects/CLWave-Initial/</Path>
                   <Path Filename="CLWave-Initial">/home/apankoke/projects/</Path>
                   <Path Filename="Vivado">/home/apankoke/projects/CLWave-Initial/</Path>
@@ -2882,6 +2881,7 @@
                   <Path Filename="project_1">/home/apankoke/projects/CLWave-Initial/Vivado/</Path>
                   <Path Filename="..">/home/apankoke/projects/CLWave-Initial/Vivado/project_1/</Path>
                   <Path Filename="project_1">/home/apankoke/projects/CLWave-Initial/Vivado/</Path>
+                  <Path Filename="">/home/apankoke/projects/</Path>
                 </Paths>
               </Entry>
             </History>
@@ -3431,6 +3431,7 @@
     <ColumnsView>
       <AutoSaveWidth>True</AutoSaveWidth>
       <TitleStyle>2</TitleStyle>
+      <LongInStatus>False</LongInStatus>
     </ColumnsView>
     <BriefView>
       <FileExtAligned>False</FileExtAligned>
@@ -3557,6 +3558,7 @@
     <FilenameStyle>0</FilenameStyle>
     <PathToBeRelativeTo>%COMMANDER_PATH%</PathToBeRelativeTo>
     <PathModifierElements>0</PathModifierElements>
+    <DefaultTextEncoding>none</DefaultTextEncoding>
   </Miscellaneous>
   <Thumbnails Save="True">
     <Width>128</Width>
@@ -3629,12 +3631,15 @@
     <BackgroundColor>0</BackgroundColor>
     <FontColor>16777215</FontColor>
     <TextPosition>0</TextPosition>
+    <AutoCopy>True</AutoCopy>
   </Viewer>
   <Editor>
     <EditWaitTime>2000</EditWaitTime>
     <SynEditOptions>856075</SynEditOptions>
     <SynEditTabWidth>8</SynEditTabWidth>
     <SynEditRightEdge>80</SynEditRightEdge>
+    <SynEditBlockIndent>2</SynEditBlockIndent>
+    <FindWordAtCursor>True</FindWordAtCursor>
   </Editor>
   <Differ>
     <IgnoreCase>False</IgnoreCase>
@@ -3650,6 +3655,7 @@
         <Modified>255</Modified>
       </Binary>
     </Colors>
+    <AutoCompare>True</AutoCompare>
   </Differ>
   <SyncDirs>
     <Subdirs>True</Subdirs>

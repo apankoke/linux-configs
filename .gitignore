@@ -1,5 +1,7 @@
 *
 !doublecmd/
+!QtProject/
+!QtProject/qtcreator
 !.gitignore
 
 
