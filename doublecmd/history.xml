@@ -2,56 +2,57 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/media/apankoke/Backup/manual/.config/</Item>
-      <Item>/media/apankoke/Backup/manual/</Item>
-      <Item>/media/apankoke/Backup/</Item>
-      <Item>/home/apankoke/.config/doublecmd/</Item>
-      <Item>/home/apankoke/.config/</Item>
-      <Item>/home/apankoke/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/build-QLinuxUtils-CLWave-Debug/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/linux-zynqmp_generic-standard-build/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/temp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
-      <Item>/srv/tftp/nfsroot/etc/init.d/</Item>
-      <Item>/srv/tftp/nfsroot/etc/</Item>
+      <Item>/mnt/CLWave/</Item>
+      <Item>/mnt/</Item>
       <Item>/srv/tftp/nfsroot/</Item>
-      <Item>/srv/tftp/nfsroot/etc/rc5.d/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
       <Item>/srv/tftp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/files/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/files/firmware/</Item>
-      <Item>/home/apankoke/transferCLWave/</Item>
-      <Item>/srv/tftp/nfsroot/etc/inittab.d/</Item>
-      <Item>/srv/tftp/nfsroot/etc/X11/xinit/</Item>
-      <Item>/srv/tftp/nfsroot/etc/X11/</Item>
-      <Item>/srv/tftp/nfsroot/home/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/postbuildscript/files/root/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/postbuildscript/files/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/postbuildscript/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/images/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/images/linux/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/images/linux/rootfs/</Item>
-      <Item>/srv/tftp/nfsroot/home/root/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/buildscripts/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/buildscripts/</Item>
-      <Item>/media/apankoke/</Item>
-      <Item>/media/apankoke/linux-second/</Item>
-      <Item>/media/apankoke/linux-main/</Item>
-      <Item>/media/</Item>
-      <Item>/home/apankoke/.ssh/</Item>
+      <Item>/srv/</Item>
+      <Item>/</Item>
+      <Item>/home/</Item>
+      <Item>/home/apankoke/</Item>
       <Item>/home/apankoke/projects/</Item>
       <Item>/home/apankoke/projects/xilinx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/u-boot-configs/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Software/Cmpn-Linux/</Item>
-      <Item>/srv/tftp/nfsroot/usr/lib/</Item>
-      <Item>/srv/tftp/nfsroot/usr/</Item>
-      <Item>/usr/lib/</Item>
-      <Item>/usr/</Item>
-      <Item>/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/images/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/images/linux/</Item>
+      <Item>/mnt/CLWave/sda2/</Item>
+      <Item>/mnt/CLWave/sda1/</Item>
+      <Item>/mnt/apankoke/</Item>
+      <Item>/srv/tftp/nfsroot/linux/</Item>
+      <Item>/srv/tftp/nfsroot-12.16.2022/etc/</Item>
+      <Item>/srv/tftp/nfsroot-12.16.2022/</Item>
+      <Item>/srv/tftp/nfsroot-01.10.2023/</Item>
+      <Item>/srv/tftp/nfsroot/etc/</Item>
+      <Item>/srv/tftp/nfsroot/export/</Item>
+      <Item>/srv/tftp/nfsroot-01.10.2023/etc/</Item>
+      <Item>/mnt/apankoke/ds/homes/apankoke/</Item>
+      <Item>/mnt/apankoke/ds/homes/apankoke/Drive/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/buildscripts/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/configs/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/conf/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/configs/init-ifupdown/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/u-boot/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/device-tree/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/device-tree/files/</Item>
+      <Item>/home/apankoke/.ssh/</Item>
+      <Item>/mnt/apankoke/buildserver-hdd/backup/</Item>
+      <Item>/mnt/apankoke/buildserver-hdd/</Item>
+      <Item>/mnt/apankoke/buildserver-hdd/transfer/</Item>
     </Navigation>
     <CommandLine>
       <Item>cd /mnt/projects_ssd/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/config.log</Item>
@@ -81,6 +82,8 @@
       <Item>smb://build07</Item>
     </CommandLine>
     <FileMask>
+      <Item>.config</Item>
+      <Item>refresh.ico</Item>
       <Item>*</Item>
       <Item>environment-setup</Item>
       <Item>components</Item>
@@ -111,7 +114,6 @@
       <Item>helloworlddriver.ko</Item>
       <Item>helloworlddriver</Item>
       <Item>launcher_eclipse</Item>
-      <Item>.config</Item>
       <Item>*zcu*.*</Item>
       <Item>*.bb</Item>
       <Item>2-01-16-rpmsg-introduce-RPMsg-control-driver-for-channel-creation.diff</Item>
@@ -130,7 +132,6 @@
       <Item>6-6-rpmsg-char-Return-an-error-if-device-already-open.patch</Item>
       <Item>log.do_unpack*</Item>
       <Item>log.do_unpack</Item>
-      <Item>*.config</Item>
     </FileMask>
     <VolumeSize/>
     <CreateDirectories>
@@ -156,6 +157,10 @@
       <Item Tag="0">build-ComprionDesktop-ZynqMPSOC_ZCU102-Debug</Item>
     </CreateDirectories>
     <SearchText>
+      <Item Tag="0">=m</Item>
+      <Item Tag="0">qlinuxutils</Item>
+      <Item Tag="0">arminia</Item>
+      <Item Tag="0">KIT</Item>
       <Item Tag="0">link</Item>
       <Item Tag="0">g_ether</Item>
       <Item Tag="0">system</Item>
@@ -203,9 +208,6 @@
       <Item Tag="0">initramfs</Item>
       <Item Tag="0">CPIO.gz</Item>
       <Item Tag="0">CPIO</Item>
-      <Item Tag="0">CONFIG_I2C_EEPROM</Item>
-      <Item Tag="0">CONFIG_SYS_</Item>
-      <Item Tag="0">I2C_EEPROM</Item>
     </SearchText>
     <SearchTextPath/>
     <ReplaceText/>
@@ -213,6 +215,8 @@
     <RenameNameMask/>
     <RenameExtMask/>
     <SearchDirectories>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/</Item>
+      <Item>/home/apankoke/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/postbuildscript/files/</Item>
       <Item>/opt/pkg/petalinux/2021.2/PetaLinux/2021.2/</Item>
       <Item>/opt/pkg/petalinux/2021.2/PetaLinux/2021.2/tool/components/yocto/buildtools_extended/sysroots/x86_64-petalinux-linux/</Item>
@@ -225,7 +229,6 @@
       <Item>/home/apankoke/projects/xilinx/2020.2/sdk/sysroots/</Item>
       <Item>/usr/share/</Item>
       <Item>/usr/share/icons/</Item>
-      <Item>/home/apankoke/</Item>
       <Item>/home/apankoke/projects/xilinx/CLWave/Software/</Item>
       <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/build-openstlinuxweston-stm32mp1/tmp-glibc/</Item>
       <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/</Item>
