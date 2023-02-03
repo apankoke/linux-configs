@@ -2,59 +2,74 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/linux-zynqmp_generic-standard-build/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/temp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/</Item>
+      <Item>/home/apankoke/.config/doublecmd/</Item>
+      <Item>/home/apankoke/.config/</Item>
+      <Item>/home/apankoke/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/KernelSourceXLNX/arch/arm64/kernel/</Item>
+      <Item>/srv/tftp/nfsroot/home/root/</Item>
+      <Item>/srv/tftp/nfsroot/home/</Item>
+      <Item>/srv/tftp/nfsroot/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
+      <Item>/home/apankoke/projects/xilinx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/Vitis-echotest-lwip1/Debug/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/Vitis-echotest-lwip1/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
+      <Item>/srv/tftp/nfsroot/lib/firmware/</Item>
+      <Item>/srv/tftp/nfsroot/lib/</Item>
+      <Item>/mnt/CLWave/root/lib/firmware/</Item>
+      <Item>/mnt/CLWave/root/lib/</Item>
+      <Item>/mnt/CLWave/root/</Item>
+      <Item>/mnt/CLWave/root/home/</Item>
       <Item>/mnt/CLWave/</Item>
       <Item>/mnt/</Item>
-      <Item>/srv/tftp/nfsroot/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
-      <Item>/srv/tftp/</Item>
-      <Item>/srv/</Item>
-      <Item>/</Item>
-      <Item>/home/</Item>
-      <Item>/home/apankoke/</Item>
-      <Item>/home/apankoke/projects/</Item>
-      <Item>/home/apankoke/projects/xilinx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/images/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/images/linux/</Item>
-      <Item>/mnt/CLWave/sda2/</Item>
-      <Item>/mnt/CLWave/sda1/</Item>
-      <Item>/mnt/apankoke/</Item>
-      <Item>/srv/tftp/nfsroot/linux/</Item>
-      <Item>/srv/tftp/nfsroot-12.16.2022/etc/</Item>
-      <Item>/srv/tftp/nfsroot-12.16.2022/</Item>
-      <Item>/srv/tftp/nfsroot-01.10.2023/</Item>
-      <Item>/srv/tftp/nfsroot/etc/</Item>
-      <Item>/srv/tftp/nfsroot/export/</Item>
-      <Item>/srv/tftp/nfsroot-01.10.2023/etc/</Item>
-      <Item>/mnt/apankoke/ds/homes/apankoke/</Item>
-      <Item>/mnt/apankoke/ds/homes/apankoke/Drive/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/buildscripts/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/configs/</Item>
+      <Item>/home/apankoke/Downloads/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/KernelSourceXLNX/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/include/generated/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/include/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/source/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/ext_sources/linux-xlnx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/ext_sources/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/kernel/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/include/config/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-source/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-modules/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/conf/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/configs/init-ifupdown/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/u-boot/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/device-tree/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-bsp/device-tree/files/</Item>
-      <Item>/home/apankoke/.ssh/</Item>
-      <Item>/mnt/apankoke/buildserver-hdd/backup/</Item>
-      <Item>/mnt/apankoke/buildserver-hdd/</Item>
-      <Item>/mnt/apankoke/buildserver-hdd/transfer/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/</Item>
+      <Item>/home/apankoke/Documents/xilinx/2021.2/</Item>
+      <Item>/home/apankoke/Documents/xilinx/</Item>
+      <Item>/home/apankoke/Documents/</Item>
+      <Item>/mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/build/</Item>
+      <Item>/mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/temp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/yocto/layers/core/meta/recipes-graphics/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/recipes-graphics/xcursor-transparent-theme/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/recipes-graphics/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/</Item>
     </Navigation>
     <CommandLine>
+      <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-source</Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/temp</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/image/usr/share/icons/xcursor-transparent/cursors</Item>
+      <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/temp/log.do_install.15820
+</Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/build.log </Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/</Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/components/yocto/layers/meta-xilinx/meta-xilinx-bsp/recipes-kernel/linux/linux-xlnx_2021.2.bb:do_compile</Item>
+      <Item>cd  /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/rpmsg-eth/1.0-r0/temp/log.do_compile</Item>
+      <Item>cd /mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-modules/rpmsg-ethernet/files</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/rpmsg-ethernet/1.0-r0/temp/log.do_compile.25286</Item>
+      <Item>csd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/rpmsg-ethernet/1.0-r0/temp/log.do_compile.25286</Item>
+      <Item>cd /opt/pkg/petalinux/2021.2/PetaLinux/2021.2/tool/tools/common/petalinux/bin/petalinux-build: /opt/pkg/petalinux/2021.2/PetaLinux/2021.2/tool/tools/common/petalinux</Item>
+      <Item>cd /opt/pkg/petalinux/2021.2/PetaLinux/2021.2/tool/tools/common/petalinux/bin/petalinux-build: /opt/pkg/petalinux/2021.2/PetaLinux/2021.2/tool/tools/common/petalinux/bin/</Item>
       <Item>cd /mnt/projects_ssd/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/config.log</Item>
       <Item>cd /home/apankoke/xilinx/2021.2/Vitis/2021.2/bin</Item>
       <Item>cd /home/apankoke/xilinx/2021.2/Vitis/2021.2/gnu/aarch64/lin/aarch64-linux/bin/</Item>
@@ -82,9 +97,22 @@
       <Item>smb://build07</Item>
     </CommandLine>
     <FileMask>
+      <Item>hw_break</Item>
+      <Item>*</Item>
+      <Item>rpmsg.h</Item>
+      <Item>rpmsg_ethernet</Item>
+      <Item>rpmsg_eth*</Item>
+      <Item>rpmsg_eth</Item>
+      <Item>*.H</Item>
+      <Item>rpmsg-eth</Item>
+      <Item>rpmsg-ethernet</Item>
+      <Item>rpmsg-ethernet.ko</Item>
+      <Item>helloworlddriver.ko</Item>
+      <Item>helloworlddriver</Item>
+      <Item>rpmsg</Item>
+      <Item>*.xsa</Item>
       <Item>.config</Item>
       <Item>refresh.ico</Item>
-      <Item>*</Item>
       <Item>environment-setup</Item>
       <Item>components</Item>
       <Item>libc.so.6</Item>
@@ -111,8 +139,6 @@
       <Item>toolchain</Item>
       <Item>*.sh</Item>
       <Item>max*.ko</Item>
-      <Item>helloworlddriver.ko</Item>
-      <Item>helloworlddriver</Item>
       <Item>launcher_eclipse</Item>
       <Item>*zcu*.*</Item>
       <Item>*.bb</Item>
@@ -121,17 +147,6 @@
       <Item>rpmsg*.c</Item>
       <Item>splash.bmp</Item>
       <Item>stm32mp157a-dk1.dtb</Item>
-      <Item>mtd-utils_*.bb</Item>
-      <Item>mtd-utils_1.1.2.bb</Item>
-      <Item>mtd-utils_1.4.4.bb</Item>
-      <Item>rpmsg.h</Item>
-      <Item>rpmsg_char.c</Item>
-      <Item>rpmsg_char</Item>
-      <Item>virtio_rpmsg_bus.c</Item>
-      <Item>rpmsg_ctrl.c</Item>
-      <Item>6-6-rpmsg-char-Return-an-error-if-device-already-open.patch</Item>
-      <Item>log.do_unpack*</Item>
-      <Item>log.do_unpack</Item>
     </FileMask>
     <VolumeSize/>
     <CreateDirectories>
@@ -157,6 +172,28 @@
       <Item Tag="0">build-ComprionDesktop-ZynqMPSOC_ZCU102-Debug</Item>
     </CreateDirectories>
     <SearchText>
+      <Item Tag="0">shortcut</Item>
+      <Item Tag="0">rpmsg_</Item>
+      <Item Tag="0">ext_</Item>
+      <Item Tag="0">core-image-minimal</Item>
+      <Item Tag="0">SRC_URI =</Item>
+      <Item Tag="0">git</Item>
+      <Item Tag="0">git://code.qt.io/qt/qt3d</Item>
+      <Item Tag="0">rpmsg</Item>
+      <Item Tag="0">eth</Item>
+      <Item Tag="0">struct rpmsg_channel</Item>
+      <Item Tag="0">#struct rpmsg_channel</Item>
+      <Item Tag="0">rpmsg_channel</Item>
+      <Item Tag="0">rpmsg_hdr</Item>
+      <Item Tag="0">rpmsg_ethernet</Item>
+      <Item Tag="0">rpmsg-eth</Item>
+      <Item Tag="0">tty</Item>
+      <Item Tag="0">struct rpmsg_channel {</Item>
+      <Item Tag="0">struct rpmsg_hdr</Item>
+      <Item Tag="0">module</Item>
+      <Item Tag="0">ethernet</Item>
+      <Item Tag="0">hello world</Item>
+      <Item Tag="0">main_nfcmod</Item>
       <Item Tag="0">=m</Item>
       <Item Tag="0">qlinuxutils</Item>
       <Item Tag="0">arminia</Item>
@@ -173,41 +210,18 @@
       <Item Tag="0">s/INTERFACES=.*/INTERFACES=</Item>
       <Item Tag="0">marvel</Item>
       <Item Tag="0">gem</Item>
-      <Item Tag="0">ethernet</Item>
       <Item Tag="0">phy</Item>
       <Item Tag="0">gem3</Item>
       <Item Tag="0">eth0</Item>
-      <Item Tag="0">eth</Item>
       <Item Tag="0">ZCU</Item>
       <Item Tag="0">CXX</Item>
       <Item Tag="0">x86_64-petalinux-linux</Item>
       <Item Tag="0">doublecmd</Item>
       <Item Tag="0">double</Item>
       <Item Tag="0">max6650</Item>
-      <Item Tag="0">rpmsg_hdr</Item>
       <Item Tag="0">HelloWorldDriver</Item>
       <Item Tag="0">simp</Item>
       <Item Tag="0">color</Item>
-      <Item Tag="0">remoteproc</Item>
-      <Item Tag="0">openamp</Item>
-      <Item Tag="0">tca6416</Item>
-      <Item Tag="0">uart</Item>
-      <Item Tag="0">uart1</Item>
-      <Item Tag="0">alias</Item>
-      <Item Tag="0">i2c</Item>
-      <Item Tag="0">dynamic</Item>
-      <Item Tag="0">.patch</Item>
-      <Item Tag="0">rpmsg_ctrl.c</Item>
-      <Item Tag="0">6-6-rpmsg-char-Return-an-error-if-device-already-open.patch</Item>
-      <Item Tag="0">RPMSG_SERVICE_NAME</Item>
-      <Item Tag="0">rpmsg</Item>
-      <Item Tag="0">/patches</Item>
-      <Item Tag="0">1-6-rpmsg-char-Rename-rpmsg_char_init-to-rpmsg_chrdev_init.patch</Item>
-      <Item Tag="0">/patches/</Item>
-      <Item Tag="0">ramfs</Item>
-      <Item Tag="0">initramfs</Item>
-      <Item Tag="0">CPIO.gz</Item>
-      <Item Tag="0">CPIO</Item>
     </SearchText>
     <SearchTextPath/>
     <ReplaceText/>
@@ -215,6 +229,21 @@
     <RenameNameMask/>
     <RenameExtMask/>
     <SearchDirectories>
+      <Item>/home/apankoke/projects/xilinx/2021.2/KernelSourceXLNX/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
+      <Item>/home/apankoke/projects/qt/meta-qt5/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/yocto/layers/meta-qt5/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/ext_sources/linux-xlnx/</Item>
+      <Item>/home/apankoke/projects/stm32mp/workspace_1.7.0/linux-5.10.10/linux-5.10.10/</Item>
+      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/</Item>
+      <Item>/srv/tftp/nfsroot-ZCU102/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/stamps/zynqmp_generic-xilinx-linux/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/buildstats/20230124124612/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-modules/nfcmod/files/</Item>
+      <Item>/srv/tftp/nfsroot/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.10+gitAUTOINC+568989d441-r0/</Item>
       <Item>/home/apankoke/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteLinux/postbuildscript/files/</Item>
@@ -222,7 +251,6 @@
       <Item>/opt/pkg/petalinux/2021.2/PetaLinux/2021.2/tool/components/yocto/buildtools_extended/sysroots/x86_64-petalinux-linux/</Item>
       <Item>/opt/pkg/petalinux/2021.2/</Item>
       <Item>/srv/tftp/nfsroot/usr/include/</Item>
-      <Item>/srv/tftp/nfsroot/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveLinuxHO/</Item>
       <Item>/home/apankoke/projects/CLWave-Initial/CLWaveLinux/CLWaveLinux/</Item>
       <Item>/home/apankoke/projects/xilinx/2020.2/sdk/sysroots/x86_64-petalinux-linux/</Item>
@@ -243,7 +271,6 @@
       <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/build-openstlinuxweston-stm32mp1/tmp-glibc/work/</Item>
       <Item>/home/apankoke/STM32CubeIDE/workspace_1.6.1/temp/stm32mp1-openstlinux-5.10-dunfell-mp1-21-03-31/</Item>
       <Item>/srv/tftp/nfsroot/lib/modules/5.4.0-xilinx-v2020.2/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/</Item>
       <Item>/home/apankoke/projects/xilinx/2020.2/</Item>
       <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-petalinux/recipes-core/</Item>
       <Item>/home/apankoke/xilinx/2019.1/</Item>
@@ -252,20 +279,6 @@
       <Item>/home/apankoke/Downloads/</Item>
       <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/layers/</Item>
       <Item>/home/apankoke/projects/</Item>
-      <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/layers/meta-st/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work-shared/zynqmp-generic/kernel-source/</Item>
-      <Item>/home/apankoke/projects/open-amp/</Item>
-      <Item>/mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2</Item>
-      <Item>/mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/</Item>
-      <Item>/mnt/projects_ssd/projects/xilinx/2020.2/xilinx-zcu102-2020.2/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/build/tmp/work/zynqmp_generic-xilinx-linux/linux-xlnx/5.4+git999-r0/temp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2019.2/trenz_cube_linux/project-spec/</Item>
-      <Item>/home/apankoke/projects/xilinx/2019.2/trenz_cube_linux/</Item>
-      <Item>/home/apankoke/projects/xilinx/2019.2/</Item>
-      <Item>/opt/pkg/petalinux/2019.1/</Item>
-      <Item>/home/apankoke/xilinx/2020.2</Item>
     </SearchDirectories>
     <SearchExcludeFiles/>
     <SearchExcludeDirectories/>
