@@ -2,58 +2,60 @@
 <doublecmd>
   <History>
     <Navigation>
-      <Item>/home/apankoke/.config/doublecmd/</Item>
-      <Item>/home/apankoke/.config/</Item>
-      <Item>/home/apankoke/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/KernelSourceXLNX/arch/arm64/kernel/</Item>
-      <Item>/srv/tftp/nfsroot/home/root/</Item>
-      <Item>/srv/tftp/nfsroot/home/</Item>
-      <Item>/srv/tftp/nfsroot/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
-      <Item>/home/apankoke/projects/xilinx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/Vitis-echotest-lwip1/Debug/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/Vitis-echotest-lwip1/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/data/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/src/lwip-2.1.1/src/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/src/lwip-2.1.1/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/src/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/system_neu_1/psu_cortexr5_0/freertos10_lwip_xilinx_psu_cortexr5_0/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/src/lwip-2.1.1/src/netif/</Item>
       <Item>/srv/tftp/nfsroot/lib/firmware/</Item>
       <Item>/srv/tftp/nfsroot/lib/</Item>
-      <Item>/mnt/CLWave/root/lib/firmware/</Item>
-      <Item>/mnt/CLWave/root/lib/</Item>
-      <Item>/mnt/CLWave/root/</Item>
-      <Item>/mnt/CLWave/root/home/</Item>
-      <Item>/mnt/CLWave/</Item>
-      <Item>/mnt/</Item>
-      <Item>/home/apankoke/Downloads/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/KernelSourceXLNX/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/include/generated/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/include/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/source/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/ext_sources/linux-xlnx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/ext_sources/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/kernel/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts/include/config/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-source/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/recipes-modules/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/meta-user/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/project-spec/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/</Item>
-      <Item>/home/apankoke/Documents/xilinx/2021.2/</Item>
-      <Item>/home/apankoke/Documents/xilinx/</Item>
-      <Item>/home/apankoke/Documents/</Item>
-      <Item>/mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/build/</Item>
-      <Item>/mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0/temp/</Item>
-      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/components/yocto/layers/core/meta/recipes-graphics/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/recipes-graphics/xcursor-transparent-theme/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/recipes-graphics/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/meta/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/core/</Item>
+      <Item>/srv/tftp/nfsroot/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/files/root/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/files/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/postbuildscript/</Item>
+      <Item>/srv/tftp/nfsroot/home/root/</Item>
+      <Item>/srv/tftp/nfsroot/home/</Item>
+      <Item>/srv/tftp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_psu_cortexr5_0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_psu_cortexr5_0/bsp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_psu_cortexr5_0/bsp/psu_cortexr5_0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-echotest-lwip1/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-echotest-lwip1/Debug/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-echotest-lwip-start/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-echotest-lwip-start/Debug/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-lwip-echotest/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-lwip-echotest/Debug/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/contrib/ports/xilinx/netif/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/contrib/ports/xilinx/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/contrib/ports/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/contrib/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/bsp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_domain/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/freertos10_xilinx_psu_cortexr5_0/bsp/psu_cortexr5_0/libsrc/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/Echotest/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/Echotest/bsp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/Echotest/bsp/psu_cortexr5_0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/Echotest/bsp/psu_cortexr5_0/libsrc/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/Echotest/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/YAPP/psu_cortexr5_0/Echotest/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/</Item>
     </Navigation>
     <CommandLine>
+      <Item>cd /home/apankoke/xilinx/2021.2/Vitis/2021.2/scripts/vitis/util/buildplatform.tcl</Item>
       <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-build-artifacts</Item>
       <Item>cd /home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work-shared/zynqmp-generic/kernel-source</Item>
       <Item>cd /mnt/project_zwo/2021.2/CLWaveCompleteTree/Linux/xlnx/build/tmp/work/all-xilinx-linux/xcursor-transparent-theme/0.1.1+gitAUTOINC+23c8af5ba4-r0</Item>
@@ -97,8 +99,19 @@
       <Item>smb://build07</Item>
     </CommandLine>
     <FileMask>
-      <Item>hw_break</Item>
+      <Item>makefile.adapter</Item>
+      <Item>makefile</Item>
       <Item>*</Item>
+      <Item>*.prj</Item>
+      <Item>system.dtb</Item>
+      <Item>Vitis-echo</Item>
+      <Item>fsbl</Item>
+      <Item>CLWavewrapper</Item>
+      <Item>wrapper</Item>
+      <Item>xemaclite.h</Item>
+      <Item>*.xpr</Item>
+      <Item>lwip</Item>
+      <Item>hw_break</Item>
       <Item>rpmsg.h</Item>
       <Item>rpmsg_ethernet</Item>
       <Item>rpmsg_eth*</Item>
@@ -137,19 +150,12 @@
       <Item>weston</Item>
       <Item>*toolchain*</Item>
       <Item>toolchain</Item>
-      <Item>*.sh</Item>
-      <Item>max*.ko</Item>
-      <Item>launcher_eclipse</Item>
-      <Item>*zcu*.*</Item>
-      <Item>*.bb</Item>
-      <Item>2-01-16-rpmsg-introduce-RPMsg-control-driver-for-channel-creation.diff</Item>
-      <Item>rpmsg_v2</Item>
-      <Item>rpmsg*.c</Item>
-      <Item>splash.bmp</Item>
-      <Item>stm32mp157a-dk1.dtb</Item>
     </FileMask>
     <VolumeSize/>
     <CreateDirectories>
+      <Item Tag="0">libs</Item>
+      <Item Tag="0">Moduls-nfcmod_clwmod</Item>
+      <Item Tag="0">Pladde-ZCU102</Item>
       <Item Tag="0">.config</Item>
       <Item Tag="0">transferCLWave</Item>
       <Item Tag="0">update-clwave</Item>
@@ -160,7 +166,6 @@
       <Item Tag="0">cubeide</Item>
       <Item Tag="0">Mainboard</Item>
       <Item Tag="0">Linux-kernel</Item>
-      <Item Tag="0">libs</Item>
       <Item Tag="0">xlnx</Item>
       <Item Tag="0">Linux</Item>
       <Item Tag="0">Roland-linux</Item>
@@ -168,12 +173,19 @@
       <Item Tag="0">xilinx-2021.2</Item>
       <Item Tag="0">tinyboard-support-package_V1.3.0</Item>
       <Item Tag="0">CLWaveLinux</Item>
-      <Item Tag="0">CLWave-Initial</Item>
-      <Item Tag="0">build-ComprionDesktop-ZynqMPSOC_ZCU102-Debug</Item>
     </CreateDirectories>
     <SearchText>
-      <Item Tag="0">shortcut</Item>
+      <Item Tag="0">rpmsg_mac</Item>
+      <Item Tag="0">clw</Item>
+      <Item Tag="0">nfc</Item>
+      <Item Tag="0">nfcmod</Item>
+      <Item Tag="0">busybox</Item>
+      <Item Tag="0">tar</Item>
+      <Item Tag="0">#define XLWIP_CONFIG_INCLUDE_EMACLITE_ON_ZYNQ</Item>
+      <Item Tag="0">use_emaclite_on_zynq</Item>
+      <Item Tag="0">use_</Item>
       <Item Tag="0">rpmsg_</Item>
+      <Item Tag="0">shortcut</Item>
       <Item Tag="0">ext_</Item>
       <Item Tag="0">core-image-minimal</Item>
       <Item Tag="0">SRC_URI =</Item>
@@ -214,14 +226,6 @@
       <Item Tag="0">gem3</Item>
       <Item Tag="0">eth0</Item>
       <Item Tag="0">ZCU</Item>
-      <Item Tag="0">CXX</Item>
-      <Item Tag="0">x86_64-petalinux-linux</Item>
-      <Item Tag="0">doublecmd</Item>
-      <Item Tag="0">double</Item>
-      <Item Tag="0">max6650</Item>
-      <Item Tag="0">HelloWorldDriver</Item>
-      <Item Tag="0">simp</Item>
-      <Item Tag="0">color</Item>
     </SearchText>
     <SearchTextPath/>
     <ReplaceText/>
@@ -229,6 +233,16 @@
     <RenameNameMask/>
     <RenameExtMask/>
     <SearchDirectories>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/embeddedsw/ThirdParty/sw_services/lwip211_v1_6/src/lwip-2.1.1/src/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-rpmsg-4-co/Vitis-echotest-lwip1/src/</Item>
+      <Item>/srv/tftp/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/system_neu_1/psu_cortexr5_0/freertos10_lwip_xilinx_psu_cortexr5_0/</Item>
+      <Item>/home/apankoke/projects/xilinx/2021.2/Vitis-workspace/system_neu_1/psu_cortexr5_0/freertos10_lwip_xilinx_psu_cortexr5_0/bsp/psu_cortexr5_0/libsrc/lwip211_v1_6/src/</Item>
+      <Item>/home/apankoke/projects/</Item>
+      <Item>/home/apankoke/xilinx/2021.2/Vitis/2021.2/data/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/KernelSourceXLNX/</Item>
       <Item>/home/apankoke/projects/xilinx/2021.2/CLWaveCompleteTree/Linux/xlnx/</Item>
       <Item>/home/apankoke/projects/qt/meta-qt5/</Item>
@@ -270,15 +284,6 @@
       <Item>/home/apankoke/projects/stm32mp/workspace/STM32MP15-Ecosystem-v3.0.0/Developer-Package/SDK/</Item>
       <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/build-openstlinuxweston-stm32mp1/tmp-glibc/work/</Item>
       <Item>/home/apankoke/STM32CubeIDE/workspace_1.6.1/temp/stm32mp1-openstlinux-5.10-dunfell-mp1-21-03-31/</Item>
-      <Item>/srv/tftp/nfsroot/lib/modules/5.4.0-xilinx-v2020.2/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/components/yocto/layers/meta-petalinux/recipes-core/</Item>
-      <Item>/home/apankoke/xilinx/2019.1/</Item>
-      <Item>/home/apankoke/xilinx/2019.1/SDK/2019.1/eclipse/lnx64.o/</Item>
-      <Item>/home/apankoke/projects/xilinx/2020.2/xilinx-zcu102-2020.2/project-spec/</Item>
-      <Item>/home/apankoke/Downloads/</Item>
-      <Item>/home/apankoke/projects/stm32mp/openstlinux-5.10-dunfell-mp1-21-03-31/layers/</Item>
-      <Item>/home/apankoke/projects/</Item>
     </SearchDirectories>
     <SearchExcludeFiles/>
     <SearchExcludeDirectories/>
