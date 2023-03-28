@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProfiles>
-<!-- Written by QtCreator 4.13.2, 2023-02-17T15:58:23. -->
+<!-- Written by QtCreator 4.13.2, 2023-03-15T11:56:58. -->
 <qtcreator>
  <data>
   <variable>Kit.IrrelevantAspects</variable>
@@ -134,8 +134,8 @@
    <value type="QString" key="PE.Profile.Name">Desktop Qt %{Qt:Version} GCC 64bit</value>
    <value type="bool" key="PE.Profile.SDK">true</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">QtSupport.QtInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
+    <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
  </data>
@@ -182,8 +182,8 @@
    <value type="QString" key="PE.Profile.Name">Desktop Qt %{Qt:Version} GCC 64bit</value>
    <value type="bool" key="PE.Profile.SDK">true</value>
    <valuelist type="QVariantList" key="PE.Profile.StickyInfo">
-    <value type="QString">QtSupport.QtInformation</value>
     <value type="QString">PE.Profile.DeviceType</value>
+    <value type="QString">QtSupport.QtInformation</value>
    </valuelist>
   </valuemap>
  </data>
